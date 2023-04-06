@@ -1,12 +1,15 @@
 # Using tracert
+
 ## What was the target server's IP address?
 Target server's IP address for www.amazon.com: [18.65.233.187]
 Target server's IP address for www.google.com: [142.250.217.100]
 Target server's IP address for www.microsoft.com: [23.44.161.156]
+
 ## How many hops were needed to reach the target?
 For www.amazon.com: 15 hops were needed
 For www.google.com: 9 hops were needed
 For www.microsoft.com: 10 hops were needed
+
 ## Can you identify your ISP from the intermediate server DNS names?
 For www.amazon.com: Comcast.net
 For www.google.com: Comcast.net

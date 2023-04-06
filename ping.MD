@@ -19,5 +19,6 @@ I have a windows and I could not
 
 ## Was there any packet loss on any of the pings?
 No, none of the websites had any packet loss, always 0%.
+
 ## Did the IP address change for a given website between pings?
 Yes, the IP address for www.microsoft.com changed between pings but it did not change for www.amazon.com or www.google.com, the pings stayed the same for all three times.
